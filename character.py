@@ -11,6 +11,7 @@ class Character():
 		self.sex = sex
 		self.physique = physique
 		self.race = race
+		self.exuipment = []
 
 		self.hp = self.race.HP 
 		self.defense = self.race.DEFENSE 
