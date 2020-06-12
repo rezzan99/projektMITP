@@ -4,3 +4,9 @@ class TooManyAtributes(Exception):
 
 class TooManyItems(Exception):
 	pass
+
+class UnknownMoveDirection(Exception):
+	pass
+
+class PositionOutOfBounds(Exception):
+	pass
