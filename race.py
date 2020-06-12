@@ -31,8 +31,6 @@ class Dwarf(Race):
     INTELIGENCE = 4
     
 class Haflfling(Race):
-    HP = 6
-    DEFENSE = 7
     STRENGTH = 5
     AGILITY = 10
     INTELIGENCE = 7
