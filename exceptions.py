@@ -1,0 +1,3 @@
+
+class TooManyAtributes(Exception):
+	pass
