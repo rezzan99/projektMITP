@@ -22,8 +22,7 @@ class Dwarf(Race):
     AGILITY = 4
     INTELIGENCE = 4
     
-
- class Orc(Race):
+class Orc(Race):
     HP = 11
     DEFENSE = 4
     STRENGTH = 10
