@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AVAILABLE_POINTS = 15
 AVAILABLE_ITEMS_AMOUNT = 6
 
@@ -5,6 +6,16 @@ BOARD_WIDTH = 10
 BOARD_HEIGHT = 10
 
 MOVES_AMOUNT = 2
+=======
+AVAILABLE_POINTS = 50
+AVAILABLE_ITEMS_AMOUNT = 6
+
+BOARD_WIDTH = 12
+BOARD_HEIGHT = 10
+
+MOVES_AMOUNT = 5
+DIFFUCULTY=5
+>>>>>>> ted
 N = 'N'
 NE = 'NE'
 E = 'E'
@@ -13,3 +24,10 @@ S = 'S'
 SW = 'SW'
 W = 'W'
 NW = 'NW'
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> ted
