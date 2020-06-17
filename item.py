@@ -2,6 +2,21 @@
 class Item():
 	pass
 
+class Equipment(Item)
+    def __init__(self,):
+
+
+        ARMOR= {
+            'head': 0,
+            'chest': 1,
+            'legs': 2,
+            'feet': 3,
+            'weapon': 4
+        }
+
+
+
+
 class Weapon(Item):
 	pass
 

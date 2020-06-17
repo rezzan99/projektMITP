@@ -35,3 +35,10 @@ class Haflfling(Race):
     STRENGTH = 5
     AGILITY = 10
     INTELIGENCE = 7
+
+class Goblin(Race):
+    HP = 1
+    DEFENSE = 1
+    STRENGTH = 1
+    AGILITY = 1
+    INTELIGENCE = 1
